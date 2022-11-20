@@ -28,3 +28,18 @@ category_name=category_list[int(user_selection)].text
 cat_button=driver.find_element(By.LINK_TEXT,category_name)
 cat_button.click()
 
+#Get the user input for bestseller or New relase:
+
+final_choice= int(input("Enter 0- for Best seller, 1- for New release"))
+
+category_type=""
+
+if final_choice==0:
+    category_type=driver.find_element(By.CSS_SELECTOR,'[aria-label="View all in Best Sellers"]')
+else:
+    category_type=driver.find_element(By.CSS_SELECTOR,'[aria-label="View all in New Releases"]')
+
+category_type.click()
+
+
+

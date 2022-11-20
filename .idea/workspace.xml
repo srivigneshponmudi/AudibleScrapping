@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0dff7e8b-d4c7-4bed-b3a4-45b8686e4640" name="Changes" comment="Inital commit">
+    <list default="true" id="0dff7e8b-d4c7-4bed-b3a4-45b8686e4640" name="Changes" comment="scrapped and displayed category with link to the next page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668862966795</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="scrapped and displayed category with link to the next page">
+      <created>1668933729054</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668933729054</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +99,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added the necessary packages" />
     <MESSAGE value="Inital commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inital commit" />
+    <MESSAGE value="scrapped and displayed category with link to the next page" />
+    <option name="LAST_COMMIT_MESSAGE" value="scrapped and displayed category with link to the next page" />
   </component>
 </project>
